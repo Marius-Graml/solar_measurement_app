@@ -1,0 +1,2 @@
+# solar_measurement_app
+prototype_app_Fachartikel_MT2
